@@ -26,3 +26,4 @@ for download in ${DOWNLOADS}; do
   done
 done
 echo -e "\n\nAdd these values to roles/download/defaults/main.yml"
+
